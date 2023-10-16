@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+#board{
+    background-image:url('./Img/doodlejumpbg.png');
+}
